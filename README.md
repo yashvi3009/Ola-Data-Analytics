@@ -1,7 +1,4 @@
 # Ola-Data-Analytics
-
-# Ola Data Analyst Project
-
 This project simulates Ola ride booking data, generated using AI (GPT), and demonstrates data analysis using SQL queries.
 
 ## Project Overview
